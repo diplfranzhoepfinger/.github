@@ -6,7 +6,21 @@
 🍿 Fun facts - what does your team eat for breakfast?  
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Telegram ISOBUS Channel: https://t.me/+V_7QkEUfnYjFlJo0
+Telegram ISOBUS Channel: [https://t.me/+V_7QkEUfnYjFlJo0](https://t.me/+V_7QkEUfnYjFlJo0)
+
+Telegram Gruppe über ISOBUS:
+
+[https://t.me/+V_7QkEUfnYjFlJo0](https://t.me/+V_7QkEUfnYjFlJo0)
+
+[https://t.me/joinchat/B1-SThBCW-w6klLwK3zLjw](https://t.me/joinchat/B1-SThBCW-w6klLwK3zLjw)
+
+Telegram Gruppe zu CCI:
+
+[https://t.me/joinchat/8_KHdpS2ynVjOTUy](https://t.me/joinchat/8_KHdpS2ynVjOTUy)
+
+LinkedIn:
+
+[https://www.linkedin.com/groups/102887/](https://www.linkedin.com/groups/102887/)
 
 See [wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki) for getting started guide.
 
