@@ -6,7 +6,7 @@
 🍿 Fun facts - what does your team eat for breakfast?  
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Telegram ISOBUS Group: 
+Telegram ISOBUS Group:
 
 [https://t.me/+V_7QkEUfnYjFlJo0](https://t.me/+V_7QkEUfnYjFlJo0)
 
@@ -26,12 +26,12 @@ LinkedIn:
 
 See [wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki) for getting started guide.
 
-Wiki 1: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki)
+Wiki 1: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki) Install-ISOBUS-Environment
 
-Wiki 2: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-VT-Objects/wiki)
+Wiki 2: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-VT-Objects/wiki) ISOBUS-VT-Objects
 
-Wiki 3: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-other/wiki)
+Wiki 3: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-other/wiki) ISOBUS-other
 
-Wiki 4: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages/wiki)
+Wiki 4: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages/wiki) visual-programming-languages
 
 the Eclipse Setups are now inside ESP-IDF installer.
