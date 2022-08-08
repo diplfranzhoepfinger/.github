@@ -40,7 +40,7 @@ Neue Wikis Schuljahr 2022/2023
 
 Wiki 1: [Wiki](https://install-isobus-environment-docs.readthedocs.io/en/latest/) Install-ISOBUS-Environment
 
-Wiki 2: [Wiki](https://isobus-vt-objects-docs.readthedocs.io/en/latest/) ISOBUS-VT-Objects
+Wiki 2: [Wiki](https://isobus-vt-objects-docs.readthedocs.io/de/latest/) ISOBUS-VT-Objects
 
 Wiki 3: [Wiki](https://isobus-other-docs.readthedocs.io/en/latest/) ISOBUS-other
 
