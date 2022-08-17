@@ -24,6 +24,10 @@ LinkedIn:
 
 [https://www.linkedin.com/groups/102887/](https://www.linkedin.com/groups/102887/)
 
+YouTube Kanal der Meisterschule: https://www.youtube.com/user/Meisterschulen
+
+YouTube Kanal Meisterschule Landmaschinenmechankik: https://www.youtube.com/channel/UCEQjWjWuVx83g1DjbyG7WZw
+
 See [wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki) for getting started guide.
 
 Wiki 1: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki) Install-ISOBUS-Environment
