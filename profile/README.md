@@ -28,18 +28,6 @@ YouTube Kanal der Meisterschule: https://www.youtube.com/user/Meisterschulen
 
 YouTube Kanal Meisterschule Landmaschinenmechankik: https://www.youtube.com/channel/UCEQjWjWuVx83g1DjbyG7WZw
 
-See [wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki) for getting started guide.
-
-Wiki 1: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment/wiki) Install-ISOBUS-Environment
-
-Wiki 2: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-VT-Objects/wiki) ISOBUS-VT-Objects
-
-Wiki 3: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-other/wiki) ISOBUS-other
-
-Wiki 4: [Wiki](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages/wiki) visual-programming-languages
-
-the Eclipse Setups are now inside ESP-IDF installer.
-
 Neue Wikis Schuljahr 2022/2023
 
 Wiki 1: [Wiki](https://install-isobus-environment-docs.readthedocs.io/de/latest/) Install-ISOBUS-Environment
