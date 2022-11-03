@@ -40,6 +40,6 @@ LinkedIn:
 
 YouTube Kanal der Meisterschule: https://www.youtube.com/user/Meisterschulen
 
-YouTube Kanal Meisterschule Landmaschinenmechankik: https://www.youtube.com/channel/UCEQjWjWuVx83g1DjbyG7WZw
+YouTube Kanal Meisterschule Landmaschinenmechankik: https://youtube.com/@ms-muc-lama
 
 
