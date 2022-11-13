@@ -8,6 +8,7 @@ Wiki 3: [Wiki](https://isobus-other-docs.readthedocs.io/de/latest/) ISOBUS-other
 
 Wiki 4: [Wiki](https://visual-programming-languages-docs.readthedocs.io/de/latest/) visual-programming-languages
 
+Wiki 5: [Wiki](https://werkzeug-docs.readthedocs.io/de/latest/) Werkzeug
 
 
 Gitlab: https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
