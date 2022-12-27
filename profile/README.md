@@ -44,3 +44,8 @@ YouTube Kanal der Meisterschule: https://www.youtube.com/user/Meisterschulen
 YouTube Kanal Meisterschule Landmaschinenmechankik: https://youtube.com/@ms-muc-lama
 
 
+## Nice things found in Github:
+
+https://github.com/ad3154/ISO11783-CAN-Stack
+
+
