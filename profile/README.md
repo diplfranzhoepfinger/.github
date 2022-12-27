@@ -45,6 +45,7 @@ YouTube Kanal Meisterschule Landmaschinenmechankik: https://youtube.com/@ms-muc-
 
 
 ## Nice things found in Github:
+![ISOBUS++Logo](https://github.com/ad3154/ISO11783-CAN-Stack/blob/main/docs/images/wideLogoTransparent.png)
 
 https://github.com/ad3154/ISO11783-CAN-Stack
 
