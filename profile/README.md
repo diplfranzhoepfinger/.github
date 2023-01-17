@@ -20,6 +20,9 @@ Gitlab: https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
 🍿 Fun facts - what does your team eat for breakfast?  
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+Meisterschulen:
+https://www.meisterschulen-mchn.de/
+
 Telegram ISOBUS Group:
 
 [https://t.me/+V_7QkEUfnYjFlJo0](https://t.me/+V_7QkEUfnYjFlJo0)
