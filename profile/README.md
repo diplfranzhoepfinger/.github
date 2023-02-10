@@ -1,6 +1,6 @@
 # Meisterschulen am Ostbahnhof, München
 
-### Need help or have a question? Join the chat at [Gitter](https://gitter.im/Meisterschulen-am-Ostbahnhof-Munchen/community) or [open a new Discussion]#(https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/discussions)
+### Need help or have a question? Join the chat at [Gitter](https://gitter.im/Meisterschulen-am-Ostbahnhof-Munchen/community) or [open a new Discussion](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/discussions)
 #### Some Repos have own Channels
 
 
