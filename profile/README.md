@@ -1,3 +1,9 @@
+# Meisterschulen am Ostbahnhof, München
+
+### Need help or have a question? Join the chat at [Gitter](https://gitter.im/Meisterschulen-am-Ostbahnhof-Munchen/community) or [open a new Discussion]#(https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/discussions)
+#### Some Repos have own Channels
+
+
 Neue Wikis Schuljahr 2022/2023
 
 Wiki 1: [Wiki](https://install-isobus-environment-docs.readthedocs.io/) Install-ISOBUS-Environment
