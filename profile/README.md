@@ -6,15 +6,15 @@
 
 Neue Wikis Schuljahr 2022/2023
 
-Wiki 1: [Wiki](https://install-isobus-environment-docs.readthedocs.io/) Install-ISOBUS-Environment
+Wiki 1: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/) Install-ISOBUS-Environment
 
-Wiki 2: [Wiki](https://isobus-vt-objects-docs.readthedocs.io/) ISOBUS-VT-Objects
+Wiki 2: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/) ISOBUS-VT-Objects
 
-Wiki 3: [Wiki](https://isobus-other-docs.readthedocs.io/) ISOBUS-other
+Wiki 3: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/) ISOBUS-other
 
-Wiki 4: [Wiki](https://visual-programming-languages-docs.readthedocs.io/) visual-programming-languages
+Wiki 4: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/) visual-programming-languages
 
-Wiki 5: [Wiki](https://werkzeug-docs.readthedocs.io/) Werkzeug
+Wiki 5: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/) Werkzeug
 
 Gitlab: https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
 
