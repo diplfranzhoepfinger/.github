@@ -1,12 +1,14 @@
 # Meisterschulen am Ostbahnhof, München
 
 ### Need help or have a question? Join the chat at [Gitter](https://gitter.im/Meisterschulen-am-Ostbahnhof-Munchen/community) or [open a new Discussion](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/discussions)
-#### Some Repos have own Channels
 
+#### Some Repos have own Channels
 
 Neue Wikis Schuljahr 2022/2023
 
 Wiki 0: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io) das "über" Wiki
+
+> ein Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
 Wiki 1: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/) Install-ISOBUS-Environment
 
@@ -28,7 +30,7 @@ Gitlab: https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
 🍿 Fun facts - what does your team eat for breakfast?  
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-Meisterschulen:
+Meisterschulen:  
 https://www.meisterschulen-mchn.de/
 
 Telegram ISOBUS Group:
