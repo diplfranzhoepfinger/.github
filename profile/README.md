@@ -55,6 +55,14 @@ YouTube Kanal der Meisterschule: https://www.youtube.com/user/Meisterschulen
 
 YouTube Kanal Meisterschule Landmaschinenmechankik: https://youtube.com/@ms-muc-lama
 
+## logiBUS®
+
+[https://www.logibus.tech/](https://www.logibus.tech/)
+
+## ISOmaX®
+
+[https://www.isomax.tech/](https://www.isomax.tech/)
+
 ## 4diac
 
 ![4diacLogo](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages-docs/main/docs/img/poweredby4diac_large.svg)
