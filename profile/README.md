@@ -8,7 +8,7 @@ Neue Wikis Schuljahr 2022/2023
 
 Wiki 0: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io) das "über" Wiki
 
-> ein Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
+> eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
 Wiki 1: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/) Install-ISOBUS-Environment
 
