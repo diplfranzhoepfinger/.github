@@ -57,26 +57,26 @@ YouTube Kanal Meisterschule Landmaschinenmechankik: https://youtube.com/@ms-muc-
 
 ## logiBUS®
 
-![LogiBUS_Logo_V3 0](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/assets/69573151/126f9534-e2ad-426f-99f5-78863962ec2b)
+![LogiBUS_Logo_V3 0](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/assets/69573151/126f9534-e2ad-426f-99f5-78863962ec2b | width=100)
 
 
 [https://www.logibus.tech/](https://www.logibus.tech/)
 
 ## ISOmaX®
 
-![ISOmaX_Logo_V1 1](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/assets/69573151/efdb81a4-7b43-4ae2-a730-8539e29bd821)
+![ISOmaX_Logo_V1 1](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/assets/69573151/efdb81a4-7b43-4ae2-a730-8539e29bd821 | width=100)
 
 
 [https://www.isomax.tech/](https://www.isomax.tech/)
 
 ## 4diac
 
-![4diacLogo](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages-docs/main/docs/img/poweredby4diac_large.svg)
+![4diacLogo](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages-docs/main/docs/img/poweredby4diac_large.svg | width=100)
 
 https://www.eclipse.org/4diac/index.php
 
 ## Nice things found in Github:
 
-![ISOBUS++Logo](https://github.com/ad3154/ISO11783-CAN-Stack/blob/main/docs/images/wideLogoTransparent.png)
+![ISOBUS++Logo](https://github.com/ad3154/ISO11783-CAN-Stack/blob/main/docs/images/wideLogoTransparent.png | width=100)
 
 https://github.com/ad3154/ISO11783-CAN-Stack
