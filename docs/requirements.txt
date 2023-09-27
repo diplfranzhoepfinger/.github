@@ -1,0 +1,22 @@
+linkify
+rtd
+jinja2
+requests
+docutils
+sphinxcontrib-serializinghtml
+myst_parser
+sphinx-rtd-theme
+sphinx
+sphinxcontrib-websupport
+sphinx_design
+sphinxext.rediraffe
+sphinxcontrib.mermaid
+sphinxext.opengraph
+sphinx_pyscript
+sphinx_tippy
+sphinx-markdown-tables
+clang
+hawkmoth
+sphinxcontrib.autoprogram
+sphinx_c_autodoc
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
