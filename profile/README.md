@@ -6,14 +6,14 @@
 
 ##### Wiki 0
 
-Wiki 0: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io) das "über" Wiki
+Wiki 0: [Wiki](https://docs.ms-muc-docs.de/de/latest/) das "über" Wiki
 
 > eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
 
 ##### Wiki 1
 
-Wiki 1: [Wiki](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/) Install-ISOBUS-Environment
+Wiki 1: [Wiki](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/de/latest/) Install-ISOBUS-Environment
 
 ##### Wiki 2
 
