@@ -1,6 +1,6 @@
-# Meisterschulen-am-Ostbahnhof-Munchen
+# Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen
 
-## Wiki 0
+## Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen
 
 Wiki 0: [Wiki](https://docs.ms-muc-docs.de) das "über" Wiki
 
