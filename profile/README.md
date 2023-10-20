@@ -93,7 +93,7 @@ https://www.eclipse.org/4diac/index.php
 
 AgIsoStack (Formerly Isobus++) is the Free ISO11783 & J1939 CAN Stack
 
-<img src="https://github.com/ad3154/ISO11783-CAN-Stack/blob/main/docs/images/wideLogoTransparent.png" width="300">
+<img src="https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/main/docs/wideLogoTransparent.png" width="300">
 
 [https://github.com/ad3154/ISO11783-CAN-Stack](https://github.com/ad3154/ISO11783-CAN-Stack)
 
