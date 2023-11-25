@@ -64,6 +64,11 @@ Telegram Gruppe zu CCI:
 
 [https://t.me/joinchat/8_KHdpS2ynVjOTUy](https://t.me/joinchat/8_KHdpS2ynVjOTUy)
 
+Telegram Gruppe zu AgIsoStack:
+
+[https://t.me/openagriculture](https://t.me/openagriculture)
+
+
 LinkedIn:
 
 [https://www.linkedin.com/groups/102887/](https://www.linkedin.com/groups/102887/)
