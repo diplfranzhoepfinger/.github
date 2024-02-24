@@ -46,7 +46,7 @@ Wiki 3: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-other-docs/) ISOBUS-o
 
 ##### Wiki 4: visual-programming-languages
 
-<img src="" width=25% height=25%>
+<img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages-docs/assets/69573151/52317177-06fe-4607-80e7-fd75c07ad98d" width=25% height=25%>
 
 Wiki 4: [Wiki](https://docs.ms-muc-docs.de/projects/visual-programming-languages-docs/) visual-programming-languages
 
