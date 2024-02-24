@@ -12,6 +12,8 @@ or [open a new Discussion](https://github.com/Meisterschulen-am-Ostbahnhof-Munch
 
 ##### Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen
 
+<img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/assets/69573151/1ffc900a-9e55-4639-9bd5-871f4407578a" width=25% height=25%>
+
 Wiki 0: [Wiki](https://docs.ms-muc-docs.de/de/latest/) das "über" Wiki
 
 > eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
