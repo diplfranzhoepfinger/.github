@@ -54,7 +54,7 @@ Wiki 4: [Wiki](https://docs.ms-muc-docs.de/projects/visual-programming-languages
 
 ##### Wiki 5: Werkzeug
 
-<img src="" width=25% height=25%>
+<img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/werkzeug-docs/assets/69573151/6a510073-d4b4-411d-aaea-cbf3b0848292" width=25% height=25%>
 
 Wiki 5: [Wiki](https://docs.ms-muc-docs.de/projects/werkzeug-docs/) Werkzeug
 
