@@ -23,6 +23,8 @@ Wiki 1: [Wiki](https://docs.ms-muc-docs.de/projects/install-isobus-environment-d
 
 ##### Wiki 2: ISOBUS-VT-Objects
 
+<img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-VT-Objects-docs/assets/69573151/cd8f17da-1a1a-43fc-a5a4-49cabc8eca87" width=25% height=25%>
+
 Wiki 2: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-vt-objects-docs/) ISOBUS-VT-Objects
 
 ##### Wiki 3: ISOBUS-other
