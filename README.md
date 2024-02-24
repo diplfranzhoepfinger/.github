@@ -1,5 +1,7 @@
 # Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen
 
+![franz0748_a_new_logo_for_the_Meisterschulen_am_Ostbahnhof_Mnche_195ccaea-62c9-4566-a4d9-8aed444bdd36](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/assets/69573151/1ffc900a-9e55-4639-9bd5-871f4407578a)
+
 
 [![Documentation Status](https://readthedocs.org/projects/meisterschulen-am-ostbahnhof-munchen-docs/badge/?version=latest)](https://docs.ms-muc-docs.de/de/latest/?badge=latest)
   
