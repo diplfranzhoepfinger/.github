@@ -38,7 +38,7 @@ Wiki 2: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-vt-objects-docs/) ISO
 
 ##### Wiki 3: ISOBUS-other
 
-<img src="" width=25% height=25%>
+<img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-other-docs/assets/69573151/12740528-8fae-4652-881b-8832de2aa50b" width=25% height=25%>
 
 Wiki 3: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-other-docs/) ISOBUS-other
 
