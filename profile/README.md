@@ -8,12 +8,15 @@ or [open a new Discussion](https://github.com/Meisterschulen-am-Ostbahnhof-Munch
 
 #### Some Repos have own Channels
 
+---
+
 ##### Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen
 
 Wiki 0: [Wiki](https://docs.ms-muc-docs.de/de/latest/) das "über" Wiki
 
 > eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
+---
 
 ##### Wiki 1: Install-ISOBUS-Environment-docs
 
@@ -21,23 +24,39 @@ Wiki 0: [Wiki](https://docs.ms-muc-docs.de/de/latest/) das "über" Wiki
 
 Wiki 1: [Wiki](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/de/latest/) Install-ISOBUS-Environment
 
+---
+
 ##### Wiki 2: ISOBUS-VT-Objects
 
 <img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS-VT-Objects-docs/assets/69573151/cd8f17da-1a1a-43fc-a5a4-49cabc8eca87" width=25% height=25%>
 
 Wiki 2: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-vt-objects-docs/) ISOBUS-VT-Objects
 
+---
+
 ##### Wiki 3: ISOBUS-other
+
+<img src="" width=25% height=25%>
 
 Wiki 3: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-other-docs/) ISOBUS-other
 
+---
+
 ##### Wiki 4: visual-programming-languages
+
+<img src="" width=25% height=25%>
 
 Wiki 4: [Wiki](https://docs.ms-muc-docs.de/projects/visual-programming-languages-docs/) visual-programming-languages
 
+---
+
 ##### Wiki 5: Werkzeug
 
+<img src="" width=25% height=25%>
+
 Wiki 5: [Wiki](https://docs.ms-muc-docs.de/projects/werkzeug-docs/) Werkzeug
+
+---
 
 ##### Sonstiges
 
