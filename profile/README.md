@@ -17,6 +17,8 @@ Wiki 0: [Wiki](https://docs.ms-muc-docs.de/de/latest/) das "über" Wiki
 
 ##### Wiki 1: Install-ISOBUS-Environment-docs
 
+<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/assets/69573151/785faf99-23b4-43a1-b934-6f3213192517)" width=25% height=25%>
+
 Wiki 1: [Wiki](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/de/latest/) Install-ISOBUS-Environment
 
 ##### Wiki 2: ISOBUS-VT-Objects
