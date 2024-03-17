@@ -10,7 +10,6 @@ or [open a new Discussion](https://github.com/Meisterschulen-am-Ostbahnhof-Munch
 
 ---
 
-| img                                                                                                                                                                  |                                                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/assets/69573151/1ffc900a-9e55-4639-9bd5-871f4407578a" width=300>                           | Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen <br>Wiki 0: [Wiki](https://docs.ms-muc-docs.de/de/latest/) das "über" Wiki  <br>eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis |
 | <img src="https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/assets/69573151/785faf99-23b4-43a1-b934-6f3213192517" width=300>   | Wiki 1: Install-ISOBUS-Environment-docs <br>Wiki 1: [Wiki](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/de/latest/) Install-ISOBUS-Environment                 |
