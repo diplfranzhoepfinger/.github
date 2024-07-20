@@ -82,7 +82,7 @@ YouTube Kanal Meisterschule Landmaschinenmechankik: https://youtube.com/@ms-muc-
 
 <img src="https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/visual-programming-languages-docs/main/docs/img/poweredby4diac_large.svg" width="300">
 
-https://www.eclipse.org/4diac/index.php
+<https://www.eclipse.org/4diac/index.php>
 
 ## Nice things found in Github:
 
